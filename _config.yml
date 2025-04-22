@@ -1,0 +1,51 @@
+# Site settings
+course_name: DA323 Multimodal Data Processing and Learning 2.0
+course_description: "This is an advanced course with a mix of learning, doing and presenting."
+course_semester: "Jan-May 2025"
+
+baseurl: "/da323w25" # the subpath of your site, e.g. /blog/
+url: "http://neerajww.github.io/" # the base hostname & protocol for your site
+
+schoolname: "MFSDSAI, IITG"
+schoolurl: "https://www.iitg.ac.in/dsai/"
+#twitter_username: username 
+
+address: |
+    Mehta Family School of Data Science and Artificial Intelligence
+    IIT Guwahati, India
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
