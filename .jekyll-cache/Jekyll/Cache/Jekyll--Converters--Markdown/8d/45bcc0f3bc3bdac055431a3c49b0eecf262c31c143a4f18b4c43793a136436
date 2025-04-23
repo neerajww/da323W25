@@ -1,0 +1,21 @@
+I"_<!--- <dl id="" class="wp-caption alignright" style="max-width: 175px">
+
+<dt><a href=""><img class="" src="/da323W25/_images/cover2.jpg" alt="" /></a></dt>
+
+<dd></dd>
+</dl>
+ -->
+
+<h2 id="datasets">Datasets</h2>
+<ul>
+  <li><a href="https://yann.lecun.com/exdb/mnist/">MNIST: Handwritten Digits (unimodal)</a></li>
+  <li><a href="https://github.com/zalandoresearch/fashion-mnist">Fashion-MNIST: Zalando’s Article Images (unimodal)</a></li>
+  <li><a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10/100: Tiny Natural Images Dataset (unimodal)</a></li>
+  <li><a href="https://guscooney.com/candor-dataset/">CANDOR: Conversational Audio-Visual Dataset for Human Interaction (multimodal)</a></li>
+  <li><a href="https://coswara.iisc.ac.in/">Coswara: Breathing, Cough, and Speech Sounds for COVID-19 Diagnosis (unimodal - audio)</a></li>
+  <li><a href="https://www.image-net.org/">ImageNet: Large-Scale Visual Recognition Dataset (unimodal - image)</a></li>
+  <li><a href="https://github.com/google-research-datasets/wit">WIT: Wikipedia-based Image-Text Dataset (multimodal)</a></li>
+  <li><a href="https://research.google.com/audioset/">AudioSet: Audio Events in YouTube Videos (unimodal - audio)</a></li>
+  <li><a href="https://www.robots.ox.ac.uk/~vgg/data/voxceleb/">VoxCeleb: Large-Scale Speaker Recognition Dataset (multimodal - audio &amp; video)</a></li>
+</ul>
+:ET

@@ -1,0 +1,43 @@
+I"x
+<!--- <dl id="" class="wp-caption alignright" style="max-width: 175px">
+
+<dt><a href=""><img class="" src="/da323W25/_images/cover2.jpg" alt="" /></a></dt>
+
+<dd></dd>
+</dl>
+ -->
+
+<h2 id="machine-learning">Machine Learning</h2>
+<ul>
+  <li><a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf"><em>Pattern Recognition and Machine Learning</em>, C. Bishop</a></li>
+  <li><a href="https://arxiv.org/abs/1310.4546"><em>Distributed Representations of Words and Phrases and their Compositionality</em>, T. Mikolov, I. Sutskever, K. Chen, G. Corrado, J. Dean</a></li>
+  <li><a href="https://arxiv.org/abs/1312.6114"><em>Auto-Encoding Variational Bayes</em>, D. P. Kingma, M. Welling</a></li>
+  <li><em>Brain-Informed Source Separation</em> – <em>(Link not found. Please provide more details such as authors or venue.)</em></li>
+</ul>
+
+<h2 id="multimodal-learning">Multimodal Learning</h2>
+<ul>
+  <li><a href="https://arxiv.org/abs/1705.08168"><em>Look, Listen and Learn</em>, R. Arandjelović, A. Zisserman</a></li>
+  <li><a href="https://arxiv.org/abs/1711.11591"><em>Look, Listen and Learn More: Learning from AV Synchronization</em>, R. Arandjelović, A. Zisserman</a></li>
+  <li><a href="https://arxiv.org/abs/2103.00020"><em>Learning Transferable Visual Models From Natural Language Supervision (CLIP)</em>, Alec Radford et al.</a></li>
+  <li><a href="https://arxiv.org/abs/2306.02596"><em>Learning Audio-Language Representations (CLAP)</em>, Andonian et al.</a></li>
+  <li><a href="https://arxiv.org/abs/1902.05766"><em>Speech2Face: Learning the Face Behind a Voice</em>, T. Wen et al.</a></li>
+  <li><a href="https://arxiv.org/abs/2103.01913"><em>WIT: Wikipedia-based Image Text Dataset for Multimodal Multilingual Machine Learning</em>, Krishna Srinivasan et al.</a></li>
+</ul>
+
+<h2 id="representation-learning">Representation Learning</h2>
+<ul>
+  <li><a href="https://arxiv.org/abs/2002.05709"><em>A Simple Framework for Contrastive Learning of Visual Representations (SimCLR)</em>, Chen et al.</a></li>
+</ul>
+
+<h2 id="speech-and-audio">Speech and Audio</h2>
+<ul>
+  <li><a href="https://arxiv.org/abs/1707.04668"><em>Deep Clustering and Conventional Networks for Music Separation: Strong Together</em>, J. R. Hershey et al.</a></li>
+</ul>
+
+<h2 id="multimodal-learning-in-biu">Multimodal Learning in Biu</h2>
+<ul>
+  <li><a href="https://arxiv.org/abs/1705.08168"><em>Look, Listen and Learn</em>, R. Arandjelović, A. Zisserman</a></li>
+  <li><a href="https://arxiv.org/abs/1711.11591"><em>Look, Listen and Learn More: Learning from AV Synchronization</em>, R. Arandjelović, A. Zisserman</a></li>
+</ul>
+:ET

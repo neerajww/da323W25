@@ -1,0 +1,61 @@
+I"�<!--- <dl id="" class="wp-caption alignright" style="max-width: 175px">
+
+<dt><a href=""><img class="" src="/da323W25/_images/cover2.jpg" alt="" /></a></dt>
+
+<dd></dd>
+</dl>
+ -->
+
+<h2 id="why-multimodal">Why Multimodal?</h2>
+<ul>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0167865513002584"><em>Multimodal interaction: A review</em>, M. Turk</a></li>
+  <li><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7214350"><em>Multimodal Data Fusion: An overview of methods, challenges, and prospects</em>, Lahat et al.</a></li>
+</ul>
+
+<h2 id="uniomodal-representation-learning">Uniomodal Representation Learning</h2>
+<ul>
+  <li><a href="https://arxiv.org/pdf/1301.3781"><em>Efficient Estimation of Word Representations in Vector Space</em>, Mikolov et al.</a></li>
+  <li><a href="https://jalammar.github.io/illustrated-word2vec/"><em>The Illustrated Word2vec</em>, Jay Alammar</a></li>
+  <li><a href="https://www.youtube.com/watch?v=4-QoMdSqG_I"><em>Intuition and Use-cases of embeddings in NLP and beyond</em>, Jay Alammar</a></li>
+  <li><a href="https://arxiv.org/pdf/1409.1556"><em>Very Deep Convolutional Networks for Large-Scale Image Recognition (VGGNet)</em>, Karen Simonyan, Andrew Zisserman</a></li>
+  <li><a href="https://arxiv.org/pdf/1609.09430"><em>CNN architectures for large-scale audio classification</em>, Hershey et al.</a></li>
+  <li></li>
+</ul>
+
+<h2 id="self-supervised-representation-learning">Self-supervised Representation Learning</h2>
+<ul>
+  <li><a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Mathilde_Caron_Deep_Clustering_for_ECCV_2018_paper.pdf"><em>Deep Clustering for Unsupervised Learning of Visual Features</em>, Caron et al.</a></li>
+  <li><a href="https://arxiv.org/abs/2002.05709"><em>A Simple Framework for Contrastive Learning of Visual Representations (SimCLR)</em>, Chen et al.</a></li>
+  <li><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10559458"><em>A Survey on Self-Supervised Learning: Algorithms, Applications, and Future Trends</em>, Gui et al.</a></li>
+  <li>[<em>wav2vec2.0: A framework for self-supervised learning of speech representations</em>, Bae]</li>
+</ul>
+
+<h1 id="machine-learning">Machine Learning</h1>
+<ul>
+  <li><a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf"><em>Pattern Recognition and Machine Learning</em>, C. Bishop</a></li>
+  <li><a href="https://arxiv.org/abs/1310.4546"><em>Distributed Representations of Words and Phrases and their Compositionality</em>, T. Mikolov, I. Sutskever, K. Chen, G. Corrado, J. Dean</a></li>
+  <li><a href="https://www.nowpublishers.com/article/Download/MAL-056"><em>An Introduction to Variational Autoencoders</em>, D. P. Kingma, M. Welling</a></li>
+</ul>
+
+<h2 id="multimodal-learning">Multimodal Learning</h2>
+<ul>
+  <li><a href="https://openaccess.thecvf.com/content_ICCV_2017/papers/Arandjelovic_Look_Listen_and_ICCV_2017_paper.pdf"><em>Look, Listen and Learn</em>, R. Arandjelović, A. Zisserman</a></li>
+  <li><a href="https://www.justinsalamon.com/uploads/4/3/9/4/4394963/cramer_looklistenlearnmore_icassp_2019.pdf"><em>Look, Listen and Learn More: Design choices for deep audio embeddings</em>, J. Cramer, H. Wu, J. Salamon, J. P. Bello</a></li>
+  <li><a href="https://arxiv.org/abs/2103.00020"><em>Learning Transferable Visual Models From Natural Language Supervision (CLIP)</em>, Alec Radford et al.</a></li>
+  <li><a href="https://arxiv.org/abs/2306.02596"><em>Learning Audio-Language Representations (CLAP)</em>, Andonian et al.</a></li>
+  <li><a href="https://arxiv.org/abs/1902.05766"><em>Speech2Face: Learning the Face Behind a Voice</em>, T. Wen et al.</a></li>
+  <li><a href="https://arxiv.org/abs/2103.01913"><em>WIT: Wikipedia-based Image Text Dataset for Multimodal Multilingual Machine Learning</em>, Krishna Srinivasan et al.</a></li>
+</ul>
+
+<h2 id="speech-and-audio">Speech and Audio</h2>
+<ul>
+  <li><a href="https://arxiv.org/abs/1707.04668"><em>Deep Clustering and Conventional Networks for Music Separation: Strong Together</em>, J. R. Hershey et al.</a></li>
+</ul>
+
+<h2 id="multimodal-learning-newer-domains">Multimodal Learning: Newer domains</h2>
+<ul>
+  <li><a href="https://www.nature.com/articles/s41591-022-01981-2"><em>Multimodal Biomedical AI</em>, Julián N. Acosta, Guido J. Falcone, Pranav Rajpurkar, Eric J. Topol</a></li>
+  <li><a href="https://neurips.cc/media/neurips-2024/Slides/97824_NAvnRCG.pdf"><em>BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity</em>, Zahra Gharaee, Scott C. Lowe, ZeMing Gong, Pablo Millan Arias, Nicholas Pellegrino, Austin T. Wang, Joakim Bruslund Haurum, Iuliia Zarubiieva, Lila Kari, Dirk Steinke, Graham W. Taylor, Paul Fieguth, Angel X. Chang</a></li>
+</ul>
+
+:ET

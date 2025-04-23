@@ -1,0 +1,21 @@
+I"Ï<!--- <dl id="" class="wp-caption alignright" style="max-width: 175px">
+
+<dt><a href=""><img class="" src="/da323W25/_images/cover2.jpg" alt="" /></a></dt>
+
+<dd></dd>
+</dl>
+ -->
+
+<h2 id="datasets">Datasets</h2>
+<ul>
+  <li><a href="https://yann.lecun.com/exdb/mnist/">MNIST: Handwritten Digits (unimodal))</a></li>
+  <li><a href="https://github.com/zalandoresearch/fashion-mnist">Fashion-MNIST</a></li>
+  <li><a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10 and CIFAR-100</a></li>
+  <li><a href="https://guscooney.com/candor-dataset/">CANDOR</a></li>
+  <li><a href="https://coswara.iisc.ac.in/">Coswara</a></li>
+  <li><a href="https://www.image-net.org/">ImageNet</a></li>
+  <li><a href="https://github.com/google-research-datasets/wit">WIT (Wikipedia-based Image Text)</a></li>
+  <li><a href="https://research.google.com/audioset/">AudioSet (Google Audio Dataset)</a></li>
+  <li><a href="https://www.robots.ox.ac.uk/~vgg/data/voxceleb/">VoxCeleb</a></li>
+</ul>
+:ET

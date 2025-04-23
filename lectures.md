@@ -3,4 +3,4 @@ layout: lectures
 title: Lectures
 permalink: /lectures/
 ---
-You can download the lectures here. We will try to upload lectures prior to their corresponding classes.
+The lectures have been shared through the Teams (private) channel of the course.

@@ -1,0 +1,21 @@
+I"©<!--- <dl id="" class="wp-caption alignright" style="max-width: 175px">
+
+<dt><a href=""><img class="" src="/da323W25/_images/cover2.jpg" alt="" /></a></dt>
+
+<dd></dd>
+</dl>
+ -->
+
+<h2 id="datasets">Datasets</h2>
+<ul>
+  <li>[MINST]</li>
+  <li>[FMINST]</li>
+  <li>[CIFAR]</li>
+  <li>[CANDOR]</li>
+  <li>[Coswara]</li>
+  <li>[ImageNet]</li>
+  <li>[WIT]</li>
+  <li>[Google Audio Dataset]</li>
+  <li>[Vox celeb dataset]</li>
+</ul>
+:ET

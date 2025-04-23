@@ -1,20 +1,21 @@
 ---
 layout: home
 ---
-![Alt text](./_images/computing_with_signals_2024_croped.jpg "a title")
+<!-- ![Alt text](./_images/computing_with_signals_2024_croped.jpg "a title") -->
+![Alt text](./_images/course_banner.png "a title")
 
 
-## Helpful Pre-requisites
-- Curiosity about signals, and building applications using them
-- Introduction to one or more subjects related to Random Process, Linear Algebra, and Signals & Systems
-- Familiarity with Python Programming or ready to learn parallely
+## Pre-requisites
+- Curiosity about signals and data
+- Interested to build applications with that curiosity
+- Familiarity with ML, DL, Signals and Systems, and Python Programming
 
 ## Logistics
 
-**Open Elective**: For B.Tech (3rd and 4th year)/ M.Tech Students/ Ph.D. Scholars
+**Core Course**: For Third Year B.Tech in Data Science and AI students
 
-**Class Room**: 5002 Core-5
+**Class Room**: 5205, Core-5
 
-**Timings**: Mon 12-12:55 PM, Tue 12-12:55 PM, and Fri 11-11:55 AM<br>
+**Timings**: 4:00 pm, Tue || 3:00 pm, Wed || 2:00 pm, Thu
 
 Please visit this page regularly for updated information on the course.<br>
