@@ -3,7 +3,7 @@ course_name: DA323 Multimodal Data Processing and Learning 2.0
 course_description: "This is an advanced course with a mix of learning, doing and presenting."
 course_semester: "Jan-May 2025"
 
-baseurl: "/da323w25" # the subpath of your site, e.g. /blog/
+baseurl: "/da323W25" # the subpath of your site, e.g. /blog/
 url: "http://neerajww.github.io/" # the base hostname & protocol for your site
 
 schoolname: "MFSDSAI, IITG"
